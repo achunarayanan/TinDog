@@ -42,9 +42,9 @@ body{
 /* title-image */
 
 .iphone-image{
-    transform: rotate(25deg);
+  
     margin-left: 105px;
-    width: 60%;  
+    width: 50%;  
  
     
 }
